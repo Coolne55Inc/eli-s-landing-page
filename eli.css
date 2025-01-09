@@ -1,0 +1,17 @@
+body{
+    background-color: green;
+}
+h1, li, ul, ol{
+    color: azure;
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;  /* Example width */
+  }
+  li {
+    font-size: 30px;
+  }
