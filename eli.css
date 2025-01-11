@@ -1,7 +1,7 @@
 body{
     background-color: green;
 }
-h1, ul{
+h1, ul, li, ol{
     color: azure;
     text-align: center;
     font-family: "Comic Sans MS", sans-serif;
@@ -16,11 +16,3 @@ img {
     color: azure;
     font-size: 30px;
   }
-header{
-     background-color: black;
-}
-ol{
-    font-family: "Comic Sans MS", sans-serif;
-    padding-right: 30px;
-    margin-right: 0;
-}
