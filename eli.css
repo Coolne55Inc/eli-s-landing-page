@@ -11,13 +11,11 @@ img {
     display: block;
     margin: 0 auto;
     width: 50%;  /* Example width */
+    border: solid white 4px;
   }
   li {
     font-size: 30px;
   }
 header{
      background-color: black;
-}
-footer{
-   background-color: black;
 }
