@@ -17,7 +17,11 @@ img {
   }
 header{
      background-color: black;
+    width: 100%;
+    display: flex;
 }
 footer{
    background-color: black;
+    width: 100%;
+    display: flex;
 }
