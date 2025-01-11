@@ -1,12 +1,10 @@
 body{
     background-color: green;
 }
-h1, li, ul, ol{
+h1, ul{
     color: azure;
     text-align: center;
     font-family: "Comic Sans MS", sans-serif;
-    padding-right: 30px;
-    margin-right: 0;
 }
 img {
     display: block;
@@ -19,4 +17,9 @@ img {
   }
 header{
      background-color: black;
+}
+ol{
+    font-family: "Comic Sans MS", sans-serif;
+    padding-right: 30px;
+    margin-right: 0;
 }
