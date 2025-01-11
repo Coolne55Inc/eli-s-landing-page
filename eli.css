@@ -5,7 +5,8 @@ h1, li, ul, ol{
     color: azure;
     text-align: center;
     font-family: "Comic Sans MS", sans-serif;
-
+    padding-right: 30px;
+    margin-right: 0;
 }
 img {
     display: block;
@@ -15,8 +16,6 @@ img {
   }
   li {
     font-size: 30px;
-    padding-right: 30px;
-    margin-right: 0;
   }
 header{
      background-color: black;
